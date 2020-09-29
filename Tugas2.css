@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,700&display=swap');
+
+body{
+	background-image: url("download.jpg");
+	position: absolute;
+}
+
+.box1{
+	height: 150px;
+	width: 450px;
+	margin: 0 auto;
+	text-align: justify;
+	display: block;
+}
+
+.box2{
+	height: 170px;
+	width: 450px;
+	margin: 0 auto;
+	text-align: justify;
+	font-family: "Palatino Linotype";
+	font-size: 16px;
+}
+
+.box2 table{
+	width: 800px;
+	height: 40px;
+	text-align: justify;
+	margin: auto;
+}
+
+.box3{
+	height: 180px;
+	width: 450px;
+	text-align: justify;
+	font-family: sans-serif;
+	font-size: 15px;
+	margin: 0 auto;
+	display: block;
+}
+
+.profile-image{
+	width: 180px;
+	height: 160px;
+	border-radius: 100%;
+	margin-left: 500px;
+	margin: 0 auto;
+	display: block;
+}
+
+.style{
+	width:1500px;
+	height:1000px;
+	overflow-y: hidden;
+}
+
+#pertama{
+	font-family: cursive;
+	font-size: 50px;
+	text-align: center;
+}
